@@ -1,6 +1,6 @@
-## SmartyPants
+## Cheat sheet
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+Here is a list of the commands that I found most useful :-
 
 |                |Command                          |What it dose                        |
 |----------------|-------------------------------|-----------------------------|
