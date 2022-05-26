@@ -2,7 +2,7 @@
 
 Here is a list of the commands that I found most useful :-
 
-|                |Command                          |What it dose                        |
+|   Catigory             |Command                          |What it dose                        |
 |----------------|-------------------------------|-----------------------------|
 Basic Navigation|`pwd`            |Where am I in the system.           |
 |File Manipulation!          |`"mkdir <directory name>"`  |          Make directory           |
