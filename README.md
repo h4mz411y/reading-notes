@@ -39,5 +39,5 @@
 
 [Class 01](https://github.com/h4mz411y/reading-notes/tree/main/Reading-classes/Class01)
 
-[Class 02](https://github.com/h4mz411y/reading-notes/blob/main/Reading-classes/Class01/TDD.md)
+[Class 02](https://github.com/h4mz411y/reading-notes/tree/main/Reading-classes/Class02)
 
