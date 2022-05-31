@@ -41,3 +41,7 @@
 
 [Class 02](https://github.com/h4mz411y/reading-notes/tree/main/Reading-classes/Class02)
 
+
+# Journals 
+[First-journal](https://github.com/h4mz411y/reading-notes/blob/main/Journal/FirstJournal.md)
+
