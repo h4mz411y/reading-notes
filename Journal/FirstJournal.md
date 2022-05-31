@@ -46,6 +46,10 @@ function start(port) {
 ![Ci](./assest/CI.PNG)
 
 ## Deploy to Heroku using CD
+
 ![Ci](./assest/her1.PNG)
+
 ![Ci](./assest/her2.PNG)
-![Ci](./assest/her.PNG)
+
+
+![Ci](./assest/her3.PNG)
