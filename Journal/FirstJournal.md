@@ -43,9 +43,9 @@ function start(port) {
 
 ## See passing tests via GitHub actions (CI)
 
-![Ci](CI.PNG)
+![Ci](./assest/CI.PNG)
 
 ## Deploy to Heroku using CD
-![Ci](her1.PNG)
-![Ci](her2.PNG)
-![Ci](her3.PNG)
+![Ci](./assest/her1.PNG)
+![Ci](./assest/her2.PNG)
+![Ci](./assest/her.PNG)
