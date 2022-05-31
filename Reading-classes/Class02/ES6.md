@@ -1,4 +1,4 @@
-# Learning Journal: Class 01
+# Reading: Class 02
 
 ## Express Routing
 Create, read, update, and delete (CRUD) are the four basic operations of persistent storage 
