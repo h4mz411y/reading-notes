@@ -37,9 +37,9 @@
 
 
 
-[Class 01](https://github.com/h4mz411y/reading-notes/tree/main/Reading-classes/Class01)
+[Class 01]()
 
-[Class 02](https://github.com/h4mz411y/reading-notes/tree/main/Reading-classes/Class02)
+[Class 02](https://h4mz411y.github.io/reading-notes/Reading-classes/Class01/README.md)
 
 
 # Journals 
