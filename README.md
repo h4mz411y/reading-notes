@@ -37,9 +37,9 @@
 
 
 
-[Class 01]()
+[Class 01-TDD](https://h4mz411y.github.io/reading-notes/Reading-classes/Class01/README.md)
 
-[Class 02](https://h4mz411y.github.io/reading-notes/Reading-classes/Class01/README.md)
+[Class 02 -REST API](https://h4mz411y.github.io/reading-notes/Reading-classes/Class02/README.md)
 
 
 # Journals 
