@@ -45,5 +45,5 @@
 # Journals 
 [First-journal](https://h4mz411y.github.io/reading-notes/Journal/FirstJournal.md)
 
-[second-journal](https://github.com/h4mz411y/reading-notes/blob/main/Journal/Second-jurnal.md)
+[Second-journal](https://h4mz411y.github.io/reading-notes/Journal/Second-jurnal.md)
 
