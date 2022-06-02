@@ -37,13 +37,15 @@
 
 
 
-[Class 01-TDD](TDD/README.md)
+* [Class 01-TDD](TDD/README.md)
 
-[Class 02 -REST API](REST-API/README.md)
+* [Class 02 -REST API](REST-API/README.md)
+
+* [Class 03-Linked-List](Linkedlist/README.md)
 
 
 # Journals 
-[First-journal](Journal/FirstJournal.md)
+* [First-journal](Journal/FirstJournal.md)
 
-[Second-journal](Journal/Second-jurnal.md)
+* [Second-journal](Journal/Second-jurnal.md)
 
