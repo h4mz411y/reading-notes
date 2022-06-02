@@ -29,6 +29,7 @@ $ ls
 ```
 cd <your directory>
 ```
+
 ## File and Directory Manipulation
 
 * Many commands and programs can create files. The most basic method of creating a file is with the touch command. This will create an empty file using the name and location specified.
