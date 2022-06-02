@@ -37,13 +37,13 @@
 
 
 
-[Class 01-TDD](https://h4mz411y.github.io/reading-notes/TDD/README.md)
+[Class 01-TDD](TDD/README.md)
 
-[Class 02 -REST API](https://h4mz411y.github.io/reading-notes/REST-API/README.md)
+[Class 02 -REST API](REST-API/README.md)
 
 
 # Journals 
-[First-journal](https://h4mz411y.github.io/reading-notes/Journal/FirstJournal.md)
+[First-journal](Journal/FirstJournal.md)
 
-[Second-journal](https://h4mz411y.github.io/reading-notes/Journal/Second-jurnal.md)
+[Second-journal](Journal/Second-jurnal.md)
 
