@@ -43,6 +43,8 @@
 
 * [Class 03-Linked-List](Linkedlist/README.md)
 
+* [Class 04-Sequelize](sequelize/README.md)
+
 
 # Journals 
 * [First-journal](Journal/FirstJournal.md)
