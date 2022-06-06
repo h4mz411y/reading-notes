@@ -45,6 +45,7 @@
 
 * [Class 04-Sequelize](sequelize/README.md)
 
+* [ Class 04 sequelize-normalization](sequelize-normalization/README.md)
 
 # Journals 
 * [First-journal](Journal/FirstJournal.md)
