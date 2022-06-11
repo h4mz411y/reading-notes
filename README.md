@@ -47,8 +47,7 @@
 
 * [ Class 04 sequelize-normalization](sequelize-normalization/README.md)
 
-# Journals 
-* [First-journal](Journal/FirstJournal.md)
+* [ Class 05 Autintication](Authentication/README.md)
 
-* [Second-journal](Journal/Second-jurnal.md)
+
 
