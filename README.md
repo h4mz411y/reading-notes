@@ -45,9 +45,9 @@
 
 * [Class 04-Sequelize](sequelize/README.md)
 
-* [ Class 04 sequelize-normalization](sequelize-normalization/README.md)
+* [ Class 05 sequelize-normalization](sequelize-normalization/README.md)
 
-* [ Class 05 Autintication](Authentication/README.md)
+* [ Class 06 Autintication](Authentication/README.md)
 
 
 
