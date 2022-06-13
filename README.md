@@ -49,5 +49,7 @@
 
 * [ Class 06 Autintication](Authentication/README.md)
 
+* [ Class 06 Autintication](JWT/README.md)
+
 
 
