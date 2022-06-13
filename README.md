@@ -49,7 +49,7 @@
 
 * [ Class 06 Autintication](Authentication/README.md)
 
-* [ Class 06 Autintication](JWT/README.md)
+* [ Class 07 JWT](JWT/README.md)
 
 
 
