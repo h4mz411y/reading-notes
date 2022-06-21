@@ -45,17 +45,19 @@
 
 * [Class 04-Sequelize](sequelize/README.md)
 
-* [ Class 05 sequelize-normalization](sequelize-normalization/README.md)
+* [Class 05 sequelize-normalization](sequelize-normalization/README.md)
 
-* [ Class 06 Autintication](Authentication/README.md)
+* [Class 06 Autintication](Authentication/README.md)
 
-* [ Class 07 JWT](JWT/README.md)
+* [Class 07 JWT](JWT/README.md)
 
 
-* [ Class 08 Access_control](Access_control/README.md)
+* [Class 08 Access_control](Access_control/README.md)
 
 * [Class 09 Authorization/Authentication](Authorization&Authentication/README.md)
 
 * [Class 10 Stacks & Queues](Stacks&Queues/README.md)
+
+* [Class 11 Event - Node.js](Event-Node.js/README.md)
 
 
