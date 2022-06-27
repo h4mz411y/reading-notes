@@ -62,4 +62,6 @@
 
 * [Class 12Socket.io](Socket.io/README.md)
 
+* [Class 13 Message queue](Message-Queues/README.md)
+
 
