@@ -64,4 +64,6 @@
 
 * [Class 13 Message queue](Message-Queues/README.md)
 
+* [Class 14 Event-Driven-Architecture](Event-Driven-Architecture/README.md)
+
 
