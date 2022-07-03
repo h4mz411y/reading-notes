@@ -68,4 +68,6 @@
 
 * [Class 15 Trees](Trees/README.md)
 
+* [Class 16 AWS](AWS/README.md)
+
 
