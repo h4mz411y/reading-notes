@@ -66,4 +66,6 @@
 
 * [Class 14 Event-Driven-Architecture](Event-Driven-Architecture/README.md)
 
+* [Class 15 Trees](Trees/README.md)
+
 
