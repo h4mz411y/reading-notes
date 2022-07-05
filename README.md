@@ -69,5 +69,6 @@
 * [Class 15 Trees](Trees/README.md)
 
 * [Class 16 AWS](AWS/README.md)
+* [Class 17 AWS](AWS_S3_and_Lambda/README.md)
 
 
