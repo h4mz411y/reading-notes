@@ -74,5 +74,7 @@
 
 * [Class 18 AWS_Events](aws_events/README.md)
 
+* [Class 18 AWS__API_&_DynamoDB](AWS_API/README.md)
+
 
 
