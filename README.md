@@ -74,7 +74,11 @@
 
 * [Class 18 AWS_Events](aws_events/README.md)
 
-* [Class 19 AWS__API_&_DynamoDB](AWS_API/README.md)
+* [Class 19  AWS__API_&_DynamoDB](AWS_API/README.md).
+
+* [Class 20-25  project week]()
+
+* [Class 26 Component Based UI](Component-Based-UI/README.md)
 
 
 
