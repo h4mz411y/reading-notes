@@ -76,10 +76,13 @@
 
 * [Class 19  AWS__API_&_DynamoDB](AWS_API/README.md).
 
-* [Class 20-25  project week]()
+* [Class 20-25  project week](2)
 
 * [Class 26 Component Based UI](Component-Based-UI/README.md)
 
-* [Class 27 Hooks-useState](Component-Based-UI/README.md)
+* [Class 27 Hooks-useState](Use-State/README.md)
 
-1
+
+* [Class 28 Hooks-useEffect](useEffect/README.md)
+
+
