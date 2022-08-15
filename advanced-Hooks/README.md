@@ -114,7 +114,7 @@ Switch Off Switch On {tooManyClicks ? ( <button onClick={() => setClicksSinceRes
 ```
 Nice! This gives us all kinds of control. One last thing, let's not bother with the string 'TOGGLE' for the type. Instead we'll have an object of all the change types that people can reference instead. This'll help avoid typos and improve editor autocompletion (for folks not using TypeScript):
  
-```js
+```
 function Toggle() { const [clicksSinceReset, setClicksSinceReset] = React.useState(0) const tooManyClicks = clicksSinceReset >= 4
 
 const {on, toggle, setOn, setOff} = useToggle({ reducer(currentState, action) { const changes = toggleReducer(currenState, action) if (tooManyClicks && action.type === actionTypes.toggle) { // other changes are fine, but on needs to be unchanged return {...changes, on: currentState.on} } else { // the changes are fine return changes } }, })
