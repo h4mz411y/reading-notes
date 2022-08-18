@@ -86,4 +86,5 @@
 * [Class 28 Hooks-useEffect](useEffect/README.md)
 * [Class 29 advanced-Hooks](advanced-Hooks/README.md)
 
+* [Class 30 Hash Tables](Hash-Tables/README.md)
 
