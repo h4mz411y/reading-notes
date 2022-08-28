@@ -92,3 +92,8 @@
 
 * [Class 32 API behaviour](API-behaviour/README.md)
 
+* [Class 33 Login & Auth](Login/README.md)
+
+
+* [Class 34 API Integration](API-Integration/README.md)
+
