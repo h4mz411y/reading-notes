@@ -97,6 +97,8 @@
 
 * [Class 34 API Integration](API-Integration/README.md)
 
-* [Class 36 Redux - Combined Reducers](Redux-Combined-Reducers/README.md)
+* [Class 37 Redux - Combined Reducers](Redux-Combined-Reducers/README.md)
+
+* [Class 38 Redux - Combined Reducers](Redux-Asynchronous-Actions/README.md)
 
 
